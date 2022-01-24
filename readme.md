@@ -2,6 +2,7 @@
 This is a basic file encrytion and decryption test written in python3. The single goal of this was to test encrypting and decrypting data in a simple way.
 
 
+
 ### To encrypt
 - Update line 38 in [filencrypt.py](https://github.com/I14T-E/encryption-test/filencrypt.py "filencrypt.py")
 - Execute the script
